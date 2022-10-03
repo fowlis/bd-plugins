@@ -7,8 +7,11 @@
 
  module.exports = class reminderPlugin {
     start() {
-      // Called when the plugin is activated (including after reloads)
-      BdApi.alert("Hello World!", "This is my first plugin!");
+    // Grabbing current date/time from system
+    var today = new Date();
+    var date = today.getFullYear() + "-" + (today.getMonth() + 1) + "-" +today.getDate();
+    var time = today.getHours() + ":" + today.getMinutes();
+    console.log(date + " " + time);
     } 
 
     stop() {
