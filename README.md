@@ -4,7 +4,7 @@ My terrible plugins for BetterDiscord, don't expect anything good
 
 # in development
 
-<a href="https://github.com/fowlis/bd-plugins/tree/main/Randomtheme" target="_blank">RandomTheme</a> - Applies a random theme on client start/reload from your folder with options to exclude files.<br>
+<a href="https://github.com/fowlis/bd-plugins/tree/main/RandomTheme" target="_blank">RandomTheme</a> - Applies a random theme on client start/reload from your folder with options to exclude files.<br>
 Tasks complete:
 - [x] Apply random theme on plugin start **(Completed 17/10/22)**
 - [ ] Keep plugin enabled after reload
