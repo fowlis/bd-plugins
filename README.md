@@ -25,6 +25,10 @@ Tasks complete:
 Tasks complete:
 - [ ] Do literally anything with this
 
+<br><a href="https://github.com/fowlis/bd-plugins/tree/main/UserBirthdays" target="_blank">UserBirthdays</a>* - Adds an option on user popout/modal to set a user's birthday with optional reminders and cake badge next to their name in chat.<br> * name subject to change <br>
+Tasks complete:
+- [ ] Do literally anything with this
+
 # finished
 
 none yet
