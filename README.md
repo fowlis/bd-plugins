@@ -3,6 +3,13 @@
 My terrible plugins for BetterDiscord, don't expect anything good
 
 # in development
+(ordered by priority)
+
+<br><a href="https://github.com/fowlis/bd-plugins/tree/main/Quoter" target="_blank">Quoter</a> - Lightweight plugin for quoting selection.<br>
+Tasks complete:
+- [ ] Add context menu button to right click selection menu
+- [ ] Copy selection to clipboard on button press
+- [ ] Paste selection into chat bar with desired format
 
 <a href="https://github.com/fowlis/bd-plugins/tree/main/RandomTheme" target="_blank">RandomTheme</a> - Applies a random theme on client start/reload from your folder with options to exclude files.<br>
 Tasks complete:
