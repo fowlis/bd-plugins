@@ -34,7 +34,15 @@ Tasks complete:
 
 <br><a href="https://github.com/fowlis/bd-plugins/tree/main/UserBirthdays" target="_blank">UserBirthdays</a>* - Adds an option on user popout/modal to set a user's birthday with optional reminders and cake badge next to their name in chat.<br> * name subject to change <br>
 Tasks complete:
-- [ ] Do literally anything with this
+- [ ] Add button to user popout & modal
+  - [ ] Grab some cake svg to use
+  - [ ] Work out how to add it to user popout & modal (and where)
+- [ ] Create modal for adding birthday
+  - [ ] Calendar for picking date
+  - [ ] Optional time picker
+  - [ ] Optional note
+- [ ] Figure out where to put the notification when a user's birthday is reached
+  - [ ] Create notification
 
 # finished
 
